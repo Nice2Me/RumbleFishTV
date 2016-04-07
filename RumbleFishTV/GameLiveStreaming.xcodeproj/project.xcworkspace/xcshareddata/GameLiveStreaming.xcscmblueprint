@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1312e44b-b4d3-4876-b4eb-e59dd0da9bb8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1312e44b-b4d3-4876-b4eb-e59dd0da9bb8" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1312e44b-b4d3-4876-b4eb-e59dd0da9bb8" : 0,
+    "B25503DA16070E4E23631616BA06978EF03A4F2D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C0813AB3-46B9-4EF7-992F-8ECB9C3D29BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1312e44b-b4d3-4876-b4eb-e59dd0da9bb8" : "ourCode",
+    "B25503DA16070E4E23631616BA06978EF03A4F2D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GameLiveStreaming",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GameLiveStreaming.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.8.154.240\/ourCode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1312e44b-b4d3-4876-b4eb-e59dd0da9bb8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xiaomaxuetu\/douyuTV.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B25503DA16070E4E23631616BA06978EF03A4F2D"
+    }
+  ]
+}
